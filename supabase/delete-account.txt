@@ -1,0 +1,30 @@
+Delete your Wardrobe account
+
+This page is for the Android app Wardrobe. You can ask for your account to be deleted from here. You do not need the app installed.
+
+How to request deletion
+
+1. Send an email to skha0730@uni.sydney.edu.au
+2. Use the subject "Delete my Wardrobe account"
+3. Send it from the email address on the account, and include that address in the message.
+
+If you still have Wardrobe installed, you can delete it yourself instead: open the app, go to You, tap Delete my account, then Delete everything. That finishes immediately.
+
+What is deleted
+
+The account and the data stored with it are deleted, and nothing is kept afterwards:
+
+- Your email address and login
+- Your clothes (category, colour, and the other details you entered)
+- Your saved looks
+- Photos of your clothes stored with the account
+
+Email requests are completed within 7 days. There is no extra retention period.
+
+Location is not saved with your account. It is used only when you tap "Use where I am", to fetch the weather, and then discarded. A copy of your closet can remain on a phone until you uninstall Wardrobe or delete the account from that phone.
+
+Delete some data and keep the account
+
+In the app, remove a garment or a saved look and that item, including its photo, is deleted. Your account stays.
+
+To ask for the same thing without the app, email skha0730@uni.sydney.edu.au with the subject "Delete some of my Wardrobe data", from the account email, and say which clothes, looks, or photos to remove.
